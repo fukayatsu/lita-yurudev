@@ -4,8 +4,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["fukayatsu"]
   spec.email         = ["fukayatsu@gmail.com"]
   spec.description   = %q{Yurufuwa Devroom Toolkit}
-  spec.summary       = %q{Yurufuwa Devroom Toolkit}
-  spec.homepage      = "TODO: Add a homepage"
+  spec.summary       = %q{Yurufuwa Devroom Toolkits}
+  spec.homepage      = "https://github.com/fukayatsu/lita-yurudev"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
